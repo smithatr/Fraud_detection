@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+joblib
+plotly
+streamlit_option_menu
+
+
+
+pillow
